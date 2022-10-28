@@ -1,2 +1,3 @@
-console.log('Hello World!');
-alert('ok dear');
+
+
+alert('kese ho');
