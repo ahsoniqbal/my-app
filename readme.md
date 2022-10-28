@@ -1,2 +1,2 @@
 #MyApp
-my name is very nice
+change your application name please-
